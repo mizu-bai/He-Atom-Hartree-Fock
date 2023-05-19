@@ -1,6 +1,6 @@
-# He-Atom-Hartree-Fock
+# He Atom Hartree Fock
 
-Simple Implementation of Hartree-Fock for He Atom
+Simple Implementation of Hartree-Fock Method to Calculate the Ground State Electronic Energy of He Atom
 
 ## Introduction
 
